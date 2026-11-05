@@ -1,0 +1,13 @@
+name: "OpenVerein"
+website_url: "https://github.com/ki-klub-werder-e-v/openverein"
+source_code_url: "https://github.com/ki-klub-werder-e-v/openverein"
+description: "Club management for German registered associations (e.V.): members, fees, invoices, SEPA direct debit, GoBD bookkeeping, events and a member portal."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+  - Money, Budgeting & Management
+demo_url: "https://openverein.ki-klub-werder.de"
